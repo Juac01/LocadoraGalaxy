@@ -114,7 +114,7 @@ CREATE TABLE cliente (
 
 -- INSERE USUARIO
 INSERT INTO usuario (nome, cpf, email, senha, tipo)
-VALUES ('Jose Elias', '144.531.229/02', 'joseeelias5589@gmail.com', 'senha1234', 'Vendedor');
+VALUES ('Jose Elias', '144.531.229/02', 'joaquin@gmail.com', 'senha1234', 'Vendedor');
 
 SET @last_id = LAST_INSERT_ID();
 

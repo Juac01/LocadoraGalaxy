@@ -140,7 +140,7 @@ public class Cadastro extends JFrame {
         		
         	}
         });
-        btnVoltar.setForeground(Color.WHITE);
+        btnVoltar.setForeground(new Color(128, 128, 192));
         btnVoltar.setFont(new Font("Segoe UI Black", Font.PLAIN, 12));
         btnVoltar.setBackground(new Color(128, 128, 192));
         btnVoltar.setBounds(59, 740, 131, 30);
@@ -150,7 +150,7 @@ public class Cadastro extends JFrame {
         
         JLabel nomeLocadora_1 = new JLabel("    Cadastro de Usuário");
         nomeLocadora_1.setForeground(new Color(128, 128, 192));
-        nomeLocadora_1.setFont(new Font("Segoe UI", Font.BOLD, 47));
+        nomeLocadora_1.setFont(new Font("Segoe UI", Font.BOLD, 45));
         nomeLocadora_1.setBackground(Color.WHITE);
         nomeLocadora_1.setAlignmentX(50.0f);
         nomeLocadora_1.setBounds(0, 450, 551, 63);

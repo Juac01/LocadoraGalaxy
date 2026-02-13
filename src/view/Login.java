@@ -140,7 +140,7 @@ public class Login extends JFrame {
 		        cadastro.setVisible(true);
 			}
 		});
-		btnCadastrar.setForeground(Color.WHITE);
+		btnCadastrar.setForeground(new Color(128, 128, 192));
 		btnCadastrar.setFont(new Font("Segoe UI Black", Font.PLAIN, 12));
 		btnCadastrar.setBackground(new Color(128, 128, 192));
 		btnCadastrar.setBounds(74, 604, 131, 30);
@@ -153,7 +153,7 @@ public class Login extends JFrame {
 		
 		JLabel nomeLocadora_1 = new JLabel("    Multi-Locadora Galaxy");
 		nomeLocadora_1.setForeground(new Color(128, 128, 192));
-		nomeLocadora_1.setFont(new Font("Segoe UI", Font.BOLD, 47));
+		nomeLocadora_1.setFont(new Font("Segoe UI", Font.BOLD, 45));
 		nomeLocadora_1.setBackground(Color.WHITE);
 		nomeLocadora_1.setAlignmentX(50.0f);
 		panel_1.add(nomeLocadora_1);
