@@ -9,7 +9,7 @@ public class ConectaBD {
 	      String dbUrl =
 	    		  "jdbc:mysql://localhost:3306/senac";
 	      String dbUser = "root";
-	      String dbPassword = "";
+	      String dbPassword = "aaaa";
 
 	      // Load the MySQL JDBC driver
 	      Class.forName(jdbcDriver);
