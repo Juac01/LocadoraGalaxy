@@ -52,7 +52,7 @@ public class Login extends JFrame {
 	}
 
 	/**
-	 * Create the frame......
+	 * Create the frame
 	 */
 	public Login() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
