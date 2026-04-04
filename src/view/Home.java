@@ -117,7 +117,7 @@ public class Home extends JFrame {
         panel.setBackground(new Color(128, 128, 192));
         headerPanel.add(panel, BorderLayout.CENTER);
         
-        JLabel titulo = new JLabel("GALAXY");
+        JLabel titulo = new JLabel("LOCADORA GALAXY");
         titulo.setForeground(new Color(255, 255, 255));
         panel.add(titulo);
         
